@@ -3,6 +3,7 @@
     <title>งานที่ 1</title>
   </head>
   <body>
-    page1
+    ข้อความ1
+    ข้อความ2
   </body>
 </html>
