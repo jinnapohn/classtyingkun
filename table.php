@@ -13,7 +13,7 @@
       <tr>
         <td>1</td>
         <td>Johnny Orlando</td>
-        <td><img src="https://static.wikia.nocookie.net/bratchannel/images/1/16/JOHNNY_ORLANDO_MAIN_PHOTO_cred_Norman_Wong-scaled.jpg/revision/latest?cb=20200506210413" width="45px"></td>
+        <td><img src="https://www.billboard.com/wp-content/uploads/2020/04/Johnny-Orlando-pr-2020-billboard-1548-1586881861.jpg" width="45px"></td>
         <td><a href="https://twitter.com/johnnyorlando">Twitter</a></td>
       </tr>
       <tr>
