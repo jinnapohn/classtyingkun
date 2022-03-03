@@ -18,4 +18,3 @@
     <b>โรงเรียน :</b> <i>หล่มสักวิทยาคม<i> 
     </body>
     </html>
-เขียนถึง Wanvisa Nittayapan
